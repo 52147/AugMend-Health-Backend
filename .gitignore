@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+logs/*.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build directories
+dist/
+build/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+*.seed.lock
+
+# Coverage directory used by testing tools
+coverage/
+
+# Environment variables
+.env
+
+# Database dumps
+*.sql
+*.dump
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+.dbeaver/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Other specific files
+package-lock.json
