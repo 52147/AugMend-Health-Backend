@@ -10,6 +10,7 @@ This is the backend component for the Patient Feedback Form application. It prov
 - **crypto:** For data encryption.
 - **express-validator:** For data validation.
 - **dotenv:** For environment variable management.
+- **Firebase Authentication:** For secure user access.
 
 ## Prerequisites
 
@@ -18,19 +19,20 @@ Before you begin, ensure you have met the following requirements:
 - **Node.js:** Version 14.x or later.
 - **npm:** Version 6.x or later.
 - **MySQL Server:** Version 5.7 or later.
+- **Firebase Project:** Set up a Firebase project and enable email/password authentication.
 
 ## Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/patient-feedback-form-backend.git
+   git clone https://github.com/52147/AugMend-Health-Backend.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd patient-feedback-form-backend
+   cd AugMend-Health-Backend
    ```
 
 3. **Install Dependencies:**
