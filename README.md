@@ -1,8 +1,3 @@
-Here's a comprehensive `README.md` file template for your backend project.
-
-### Example `README.md` for Backend
-
-```markdown
 # Patient Feedback Form - Backend
 
 This is the backend component for the Patient Feedback Form application. It provides RESTful API endpoints to handle patient feedback data, including encryption for sensitive information and validation for data integrity.
