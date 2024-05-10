@@ -193,4 +193,3 @@ If you want to contribute to this project:
 
 This project is licensed under the MIT License.
 
-```
