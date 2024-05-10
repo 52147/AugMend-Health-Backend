@@ -10,7 +10,6 @@ This is the backend component for the Patient Feedback Form application. It prov
 - **crypto:** For data encryption.
 - **express-validator:** For data validation.
 - **dotenv:** For environment variable management.
-- **Firebase Authentication:** For secure user access.
 
 ## Prerequisites
 
@@ -19,7 +18,6 @@ Before you begin, ensure you have met the following requirements:
 - **Node.js:** Version 14.x or later.
 - **npm:** Version 6.x or later.
 - **MySQL Server:** Version 5.7 or later.
-- **Firebase Project:** Set up a Firebase project and enable email/password authentication.
 
 ## Installation
 
@@ -177,9 +175,6 @@ patient-feedback-form-backend
 
 - **Validation:**
   - Validates all input data using `express-validator`.
-
-- **Secure User Access:**
-  - Uses Firebase Authentication .
 
 - **Data Privacy:**
   - Ensures data privacy through encryption and authentication.
