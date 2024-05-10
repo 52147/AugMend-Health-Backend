@@ -179,7 +179,8 @@ patient-feedback-form-backend
   - Validates all input data using `express-validator`.
 
 - **Secure User Access:**
-  - Provides JWT authentication (if applicable).
+  - Uses Firebase Authentication .
 
-
+- **Data Privacy:**
+  - Ensures data privacy through encryption and authentication.
 
