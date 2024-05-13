@@ -176,6 +176,3 @@ patient-feedback-form-backend
 - **Validation:**
   - Validates all input data using `express-validator`.
 
-- **Data Privacy:**
-  - Ensures data privacy through encryption and authentication.
-
